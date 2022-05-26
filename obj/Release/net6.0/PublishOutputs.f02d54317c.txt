@@ -1,0 +1,13 @@
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\AzureSqlWebapp.exe
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\appsettings.Development.json
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\appsettings.json
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\AzureSqlWebapp.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\AzureSqlWebapp.deps.json
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\AzureSqlWebapp.runtimeconfig.json
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\AzureSqlWebapp.pdb
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CodeSamplesToBeDeleted\AzureSqlWebapp\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
