@@ -8,10 +8,18 @@ namespace AzureSqlWebapp.Pages;
 public class IndexModel : PageModel
 {
     public List<Product> Products;
+
+    public IndexModel(IProductService productService)
+    {
+        ProductService = productService;
+    }
+
+    public IProductService ProductService { get; }
+
     public void OnGet()
     {
-        ProductService productService = new ProductService();
-        Products = productService.GetProducts();
+        // ProductService productService = new ProductService();
+        Products = ProductService.GetProducts();
 
     }
 }

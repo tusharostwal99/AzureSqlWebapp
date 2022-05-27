@@ -7,22 +7,31 @@ using AzureSqlWebapp.Models;
 
 namespace AzureSqlWebapp.Services
 {
-    public class ProductService
+    public interface IProductService
     {
-        private static string db_source = "tusharsql101.database.windows.net";
-        private static string db_user = "tusharostwal99";
-        private static string db_password = "Hridaan@07";
-        private static string db_database = "SqlTushar1001";
+        List<Product> GetProducts();
+    }
 
+    public class ProductService : IProductService
+    {
+        // private static string db_source = "tusharsql101.database.windows.net";
+        // private static string db_user = "tusharostwal99";
+        // private static string db_password = "Hridaan@07";
+        // private static string db_database = "SqlTushar1001";
+
+        // private static string SqlConnectionString = "Server=tcp:tushar101.database.windows.net,1433;Initial Catalog=appdb;Persist Security Info=False;User ID=tusharostwal99;Password=Azure@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+
+        private IConfiguration Configuration { get; }
+
+        public ProductService(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
         private SqlConnection GetConnection()
         {
 
-            var _builder = new SqlConnectionStringBuilder();
-            _builder.DataSource = db_source;
-            _builder.UserID = db_user;
-            _builder.Password = db_password;
-            _builder.InitialCatalog = db_database;
-            return new SqlConnection(_builder.ConnectionString);
+            var SqlConnectionString = Configuration.GetSection("SqlConnectionString").Get<string>();
+            return new SqlConnection(SqlConnectionString);
         }
         public List<Product> GetProducts()
         {

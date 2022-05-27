@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AzureSqlWebapp
 build_property.RootNamespace = AzureSqlWebapp
-build_property.ProjectDir = f:\CodeSamplesToBeDeleted\AzureSqlWebapp\
+build_property.ProjectDir = F:\CodeSamplesToBeDeleted\AzureSqlWebapp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = f:\CodeSamplesToBeDeleted\AzureSqlWebapp
+build_property.MSBuildProjectDirectory = F:\CodeSamplesToBeDeleted\AzureSqlWebapp
 build_property._RazorSourceGeneratorDebug = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Error.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Index.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Privacy.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/_ViewImports.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/_ViewStart.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[f:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Shared/_Layout.cshtml]
+[F:/CodeSamplesToBeDeleted/AzureSqlWebapp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8m8toepjk8
